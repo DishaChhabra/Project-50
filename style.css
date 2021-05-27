@@ -1,0 +1,52 @@
+    body{
+        background-color: bisque;
+    }
+    h1{
+        color:cornsilk;
+        background-color: blueviolet;
+        border: 20px solid black
+    }
+    p{
+        font-family:cursive
+    }
+    ol{
+        font-family:cursive;
+    }
+    .images img{
+        margin-top: 150px;
+        border:10px solid black;
+        border-radius:50px 
+    }
+
+    .head{
+        margin-top : -200px
+    }
+    .images{
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap:wrap
+    }
+    .subdiv1{
+        width:300px
+    }
+    .subdiv2{
+        width:300px
+    }
+    .subdiv3{
+        width:300px
+    }
+    .subdiv4{
+        width:300px
+    }
+    .subdiv5{
+        width:300px
+    }
+    .subdiv6{
+        width:300px
+    }
+    .headingimg p{
+        color: white
+    }
+    .headingimg h3{
+        color: white
+    }
